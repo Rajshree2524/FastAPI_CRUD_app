@@ -1,0 +1,10 @@
+ cd /c/Users/rajshree/aws_data/api
+chmod +x package_for_lambda.sh
+./package_for_lambda.sh
+
+ cd C:/Users/rajshree/aws_data/todo-infra
+cdk deploy
+
+
+
+pip3 install -t dependencies -r requirements.text
